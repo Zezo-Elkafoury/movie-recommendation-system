@@ -38,5 +38,12 @@ The `recommend(movie)` function takes a movie title as input and returns the top
 ### Example:
 ```python
 recommend('Interstellar')
-
+```
 ### Output
+```python
+Space Pirate Captain Harlock
+Prometheus
+Star Wars: The Last Jedi
+A Trip to the Moon
+The Matrix
+```
